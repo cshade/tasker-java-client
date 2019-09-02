@@ -1,0 +1,23 @@
+.DS_Store
+
+# local env files
+.env.local
+.env.*.local
+
+*.sw?
+.#*
+*#
+*~
+.classpath
+.project
+.settings
+bin
+build
+target
+dependency-reduced-pom.xml
+*.sublime-*
+/scratch
+.gradle
+.idea
+*.iml
+README.html
